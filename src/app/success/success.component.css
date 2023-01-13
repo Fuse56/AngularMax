@@ -1,0 +1,7 @@
+p {
+  background-color: lightgreen;
+  display: flex;
+  height: 40px;
+  width: 500px;
+  align-items: center;
+}
